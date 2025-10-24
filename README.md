@@ -9,7 +9,7 @@ Just download the ```calculator.py``` file and run it in whatever python interpr
 - Python runner/interpreter
 
 ## Testing
-You can run tests by openign the ```test_calculator``` file and running ```pytest``` on it
+You can run tests by opening the ```test_calculator``` file and running ```pytest``` on it
 
 ## Contribution
 You can contribute by opening a pull request or submitting an issue
